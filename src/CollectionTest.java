@@ -11,6 +11,6 @@ public class CollectionTest extends  TestTool{
         list.add(1, 67);
 
         this.PrintResult(isEquals(first, list.get(0)));
-        this.PrintResult(isEquals(second, list.get(3)));
+        this.PrintResult(isEquals(second, list.get(2)));
     }
 }
