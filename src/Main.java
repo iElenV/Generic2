@@ -4,6 +4,7 @@ public class Main {
 new CollectionTest().testAddElement();
 FileLogger logger = new FileLogger();
 logger.Log("uRAAA");
+logger.Log("uRAAA");
 
     }
 }
